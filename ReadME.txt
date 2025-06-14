@@ -14,7 +14,7 @@ https://virtualdub.org/blog2/entry_231.html
 
 How to use:
 You can either open the integrated IDE when loading the vdshaders plugin from the filters configuration window and load the file from there.
-Or you can just place the filter into the \plugins32\FXFilters folder and it will be autoloaded when starting Virtualdub and presents itself as "FXAA (VDFX)" from the list of available filters. It even provides some adjustable sliders for threshold and subpixel treatment.
+Or you can just place the filter "vdfxaa.fx" into the \plugins32\FXFilters folder and it will be autoloaded when starting Virtualdub and presents itself as "FXAA (VDFX)" from the list of available filters. It even provides some adjustable sliders for threshold and subpixel treatment.
 
 Changes made:
 The biggest obstacle was that Virtualdub does not understand preprocessors and C++ like intrinsic commands and can also not load .fxh helper files.
