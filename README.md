@@ -1,12 +1,14 @@
 # VDFXAA
 FXAA for VirtualDub
 
+![Alt text](Main.png)
+
 This is FXAA Filter adaption for Virtualdub.
 
-//Sources:
-//- Reshade 3.0 (https://github.com/crosire/reshade)
-//- ^contains FXAA 3.11 from Nvidia
-//- https://blog.simonrodriguez.fr/articles/2016/07/implementing_fxaa.html
+Sources:
+- Reshade 3.0 (https://github.com/crosire/reshade)
+- ^contains FXAA 3.11 from Nvidia
+- https://blog.simonrodriguez.fr/articles/2016/07/implementing_fxaa.html
 
 Why?
 I can be used to post-process aliased footage from games or other 3d stuff. Though most games nowadays provide a lot of anti-aliasing routines there are cases where none are available, especcially in the retro domain. 
